@@ -25,8 +25,8 @@ Setup Instructions
 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:davitelesfranca/velozient_dtf.git
+cd velozient_dtf
 ```
 
 
