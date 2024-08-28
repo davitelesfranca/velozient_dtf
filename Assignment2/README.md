@@ -26,7 +26,7 @@ Setup Instructions
 
 ```bash
 git clone git@github.com:davitelesfranca/velozient_dtf.git
-cd velozient_dtf
+cd velozient_dtf/Assignment2
 ```
 
 
