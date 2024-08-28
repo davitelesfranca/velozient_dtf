@@ -25,7 +25,7 @@ Before you begin, ensure you have the following:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:davitelesfranca/velozient_dtf.git
 cd azure-infrastructure-automation
 export ARM_SUBSCRIPTION_ID=<your-subscription-id>
 az login --use-device-code (or your used az login way)
